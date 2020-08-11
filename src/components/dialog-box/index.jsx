@@ -43,7 +43,7 @@ const DialogBox = ({ close, data: {item, photo, units} }) => {
 
   useEffect(() => {
     setCost(units.filter(({unit}) => unit === unitName)[0].cost * quantity);
-  });
+  }, [units, quantity, unitName]);
 
   const addToCart = () => {
     if (!error) {
