@@ -1,5 +1,37 @@
 {
   "title": "Kriti Sweets",
   "description": "Perfect destination for sweet tooth.",
-  "baseurl": "/"
+  "baseurl": "/",
+  "url": "http://kritisweets.herokuapp.com",
+  "sections": [
+    {
+      "title": "Home",
+      "ref": "/home"
+    }, {
+      "title": "Shop",
+      "ref": "/shop"
+    }, {
+      "title": "Cart",
+      "ref": "/cart"
+    }
+  ],  
+  "socials": [
+    {
+      "icon": "fa fa-facebook",
+      "ref": "https://facebook.com"
+    }, {
+      "icon": "fa fa-twitter",
+      "ref": "https://twitter.com"
+    }
+  ],
+  "date": {
+    "year": 2020
+  },
+  "developer": {
+    "name": "Anshuman",
+    "email": "anshuman844@gmail.com",
+    "profile": "https://www.linkedin.com/in/anshuman02/",
+    "twitter": "https://twitter.com/iNullPointer",
+    "linkedin": "https://www.linkedin.com/in/anshuman02/"
+  }
 }

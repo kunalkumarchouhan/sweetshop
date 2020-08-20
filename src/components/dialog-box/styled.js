@@ -13,6 +13,12 @@ export const Dialog = styled.div`
   left: 0;
   top: 0;
   border: 1px solid ${grey[500]};
+  z-index: 100;
+
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
   @media screen and (min-width: ${breakPoints.tablet}) {
     height: auto;
@@ -28,6 +34,11 @@ export const Box = styled.div`
   width: auto;
   display: flex;
   justify-content: space-around;
+
+  @media screen and (max-width: ${breakPoints.tablet}) {
+    flex-direction: column;
+    align-items: center;
+  }
 `;
 
 export const CloseButton = styled.button`
@@ -46,6 +57,10 @@ export const CloseButton = styled.button`
   &:hover {
     color: ${red[500]};
   }
+
+  @media screen and (max-width: ${breakPoints.tablet}) {
+    top: -40px;
+  }
 `;
 
 export const Img = styled.img`
@@ -53,6 +68,9 @@ export const Img = styled.img`
   width: 40%;
   height: auto;
   margin: 0;
+  @media screen and (max-width: ${breakPoints.tablet}) {
+    width: 100%;
+  }
 `;
 
 export const ItemInfo = styled.div`
@@ -68,6 +86,7 @@ export const ItemName = styled.p`
   font-size: 1.5rem;
   color: ${color[900]};
   font-family: ${fonts[3]};
+  text-align: center;
 `;
 
 export const ItemPrice = styled(ItemName)`
