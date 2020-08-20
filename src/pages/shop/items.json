@@ -1,0 +1,233 @@
+{
+  "items": [
+    {
+      "item": "Rasmadhuri",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "30"
+        }
+      ]
+    },
+    {
+      "item": "Kala Jamun (Creamfilled)",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "15"
+        },
+        {
+          "unit": "Kg",
+          "cost": "260"
+        }
+      ]
+    },
+    {
+      "item": "Chena",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "10"
+        },
+        {
+          "unit": "Kg",
+          "cost": "240"
+        }
+      ]
+    },
+    {
+      "item": "Chena (Creamfilled)",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "15"
+        },
+        {
+          "unit": "Kg",
+          "cost": "260"
+        }
+      ]
+    },
+    {
+      "item": "Rosogulla",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "12"
+        },
+        {
+          "unit": "Kg",
+          "cost": "220"
+        }
+      ]
+    },
+    {
+      "item": "Kala Jamun",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "10"
+        },
+        {
+          "unit": "Kg",
+          "cost": "240"
+        }
+      ]
+    },
+    {
+      "item": "Laddu (Boondi)",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "5"
+        },
+        {
+          "unit": "Kg",
+          "cost": "150"
+        }
+      ]
+    },
+    {
+      "item": "Laddu (Besan)",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "5"
+        },
+        {
+          "unit": "Kg",
+          "cost": "130"
+        }
+      ]
+    },
+    {
+      "item": "Peda",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "10"
+        },
+        {
+          "unit": "Kg",
+          "cost": "360"
+        }
+      ]
+    },
+    {
+      "item": "Ghee",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Kg",
+          "cost": "600"
+        }
+      ]
+    },
+    {
+      "item": "Paneer",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Kg",
+          "cost": "400"
+        }
+      ]
+    },
+    {
+      "item": "Khoya",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Kg",
+          "cost": "400"
+        }
+      ]
+    },
+    {
+      "item": "Curd",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Jar",
+          "cost": "1600"
+        }
+      ]
+    },
+    {
+      "item": "Samosa",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "5"
+        }
+      ]
+    },
+    {
+      "item": "Litti",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "5"
+        }
+      ]
+    },
+    {
+      "item": "Burger",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "Piece",
+          "cost": "30"
+        }
+      ]
+    },
+    {
+      "item": "Chat",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "full",
+          "cost": "40"
+        },
+        {
+          "unit": "half",
+          "cost": "25"
+        }
+      ]
+    },
+    {
+      "item": "Chowmin",
+      "photo": "icon-512.png",
+      "units": [
+        {
+          "unit": "full",
+          "cost": "40"
+        },
+        {
+          "unit": "half",
+          "cost": "25"
+        }
+      ]
+    }
+  ],
+  "allowedWeight": [0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5],
+  "allowedPieces": {
+    "min": 5,
+    "max": 100
+  },
+  "deliveryCharge": 20,
+  "minAmount": 200,
+  "minAmountOutside": 2000,
+  "pin": "843109"
+}
