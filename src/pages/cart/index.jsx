@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
 import { Section, TableContainer, Notification, MsgBox, OrderButton } from './styled';
 import Table from '../../components/table';
 import CheckoutForm from '../../components/checkout-form';
@@ -32,6 +31,7 @@ const Cart = props => {
       let timer = setTimeout(() => {
         handleNotification("");
         handleType("");
+        clearTimeout(timer);
       }, 5000);
     }
   }, [notification, type]);
