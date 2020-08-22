@@ -46,6 +46,7 @@ const CheckoutForm = ({ items, response }) => {
       axios.post(`${url}/order/new`, { name, phone, address, items })
         .then(res => {
           if (res.status === 200) {
+            localStorage.clear();
             response(`Order placed successfully. Order ID: ${res.data.order._id}, will delivered to you soon. Thank you!! `, "success");
           }
         })
