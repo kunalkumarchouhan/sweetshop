@@ -9,11 +9,12 @@ export const Dialog = styled.div`
   padding: 20px;
   margin: 0px;
   width: 100%;
-  height: 100vh;
+  height: 100%;
   left: 0;
   top: 0;
   border: 1px solid ${grey[500]};
   z-index: 100;
+  overflow: auto;
 
   display:flex;
   flex-direction: column;
@@ -60,6 +61,18 @@ export const CloseButton = styled.button`
 
   @media screen and (max-width: ${breakPoints.tablet}) {
     top: -40px;
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    text-align: center;
+    line-height: 0;
+    background-color: ${red[700]};
+    color: #fff;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
   }
 `;
 

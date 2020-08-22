@@ -4,9 +4,9 @@ import axios from 'axios';
 import { url } from '../../app.json';
 
 const CheckoutForm = ({ items, response }) => {
-  const [name, handleName] = useState("Buyer");
-  const [phone, handlePhone] = useState("9876543210");
-  const [address, handleAddress] = useState("Some random place");
+  const [name, handleName] = useState("");
+  const [phone, handlePhone] = useState("");
+  const [address, handleAddress] = useState("");
   const [error, handleError] = useState({});
 
   const validate = id => {
