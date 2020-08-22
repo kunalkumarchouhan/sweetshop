@@ -2,7 +2,7 @@
   "title": "Kriti Sweets",
   "description": "Perfect destination for sweet tooth.",
   "baseurl": "/",
-  "url": "http://kritisweets.herokuapp.com",
+  "url": "https://kritisweets.herokuapp.com",
   "sections": [
     {
       "title": "Home",
