@@ -32,6 +32,7 @@ const Cart = props => {
         handleNotification("");
         handleType("");
         clearTimeout(timer);
+        window.location = "/home";
       }, 5000);
     }
   }, [notification, type]);
