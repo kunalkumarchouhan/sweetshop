@@ -68,7 +68,7 @@
     },
     {
       "item": "Kala Jamun",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821369/IMG_20201001_231217_yc1tpl.jpg",
       "units": [
         {
           "unit": "Piece",
@@ -96,7 +96,7 @@
     },
     {
       "item": "Laddu (Besan)",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821371/IMG_20201001_231234_mhqv8t.jpg",
       "units": [
         {
           "unit": "Piece",
@@ -124,7 +124,7 @@
     },
     {
       "item": "Ghee",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821390/IMG_20201001_231116_z4oxei.jpg",
       "units": [
         {
           "unit": "Kg",
@@ -134,7 +134,7 @@
     },
     {
       "item": "Paneer",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821370/IMG_20201001_231128_evsexh.jpg",
       "units": [
         {
           "unit": "Kg",
@@ -144,7 +144,7 @@
     },
     {
       "item": "Khoya",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821378/IMG_20201001_231201_xbunuw.jpg",
       "units": [
         {
           "unit": "Kg",
@@ -154,7 +154,7 @@
     },
     {
       "item": "Curd",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821368/IMG_20201001_231057_na1ptt.jpg",
       "units": [
         {
           "unit": "Jar",
@@ -164,7 +164,7 @@
     },
     {
       "item": "Samosa",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821363/Best-Indian-Punjabi-Samosa-Recipe-500x500_kknocq.jpg",
       "units": [
         {
           "unit": "Piece",
@@ -174,7 +174,7 @@
     },
     {
       "item": "Litti",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821388/kachori-recipe-1a_j94vgm.jpg",
       "units": [
         {
           "unit": "Piece",
@@ -184,7 +184,7 @@
     },
     {
       "item": "Burger",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821390/IMG_20201001_231344_amxnzs.jpg",
       "units": [
         {
           "unit": "Piece",
@@ -194,7 +194,7 @@
     },
     {
       "item": "Chat",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821388/IMG_20201001_231419_iivbzn.jpg",
       "units": [
         {
           "unit": "full",
@@ -208,7 +208,7 @@
     },
     {
       "item": "Chowmin",
-      "photo": "icon-512.png",
+      "photo": "https://res.cloudinary.com/shopitems/image/upload/v1601821793/veg-chowmein-500x500_fhh83x.jpg",
       "units": [
         {
           "unit": "full",
